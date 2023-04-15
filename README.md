@@ -5,10 +5,6 @@ I'm an experienced software developer with over 10 years of professional working
 I'm always eager to expand my knowledge and skills in programming to create better software. I'm constantly looking for new opportunities to learn and grow as a developer, and I'm excited about the challenges that come with staying up-to-date with the latest industry trends.
 
 Feel free to check out my GitHub profile to see some of my work!  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <div style="display: flex; flex-direction: row;">
@@ -39,9 +35,6 @@ Feel free to check out my GitHub profile to see some of my work!
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
 </div>
 
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/behdad088" target="_blank">
@@ -57,16 +50,6 @@ Feel free to check out my GitHub profile to see some of my work!
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=behdad088&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-  
-<br/>  
-
-<br />
