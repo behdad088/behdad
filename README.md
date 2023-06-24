@@ -53,4 +53,4 @@ Feel free to check out my GitHub profile to see some of my work!
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=behdad088&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=behdad088&show_icons=true&count_private=true&hide_border=true&layout=compact" align="center" /></div>  
